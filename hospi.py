@@ -5,7 +5,7 @@ while True:
 
     match op:
         case 1:
-            print("ingresar ficha")
+            lista_pacientes=ingresar_paciente()
         case 2:
             print("Buscar ficha")
         case 3:
@@ -19,4 +19,5 @@ while True:
             break
         case _:
             print("Opción no valida")
+            
     
