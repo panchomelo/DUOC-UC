@@ -1,11 +1,7 @@
+from funciones import menu, ingresar_paciente
+
 while True:
-    print("1.- Ingresar ficha del paciente")
-    print("2.- Buscar ficha por rut")
-    print("3.- Buscar medicamentos por rut")
-    print("4.- Eliminar ficha del paciente")
-    print("5.- Listar pacientes atendidos")
-    print("6.- Salir")
-    op=int(input("Ingrese una opción valida (1/6)"))
+    op = menu()
 
     match op:
         case 1:
@@ -20,6 +16,7 @@ while True:
             print("Listar pacientes")
         case 6:
             print("Has elegido salir. Adiós!")
+            break
         case _:
             print("Opción no valida")
     

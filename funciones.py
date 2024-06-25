@@ -1,3 +1,14 @@
+def menu():
+    print("1.- Ingresar ficha del paciente")
+    print("2.- Buscar ficha por rut")
+    print("3.- Buscar medicamentos por rut")
+    print("4.- Eliminar ficha del paciente")
+    print("5.- Listar pacientes atendidos")
+    print("6.- Salir")
+    op = int(input("Ingrese una opción válida (1/6): "))
+    return op
+
+
 def ingresar_paciente():
     pacientes = []
 
