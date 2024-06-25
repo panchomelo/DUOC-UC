@@ -1,0 +1,12 @@
+[
+    {
+        "nombre_completo": "francisco javier vega salvo",
+        "rut": "18.850.294-6",
+        "sexo": "masculino",
+        "diagnostico": "gastritis",
+        "medicamentos_recetados": [
+            "viadil",
+            "gaviscon"
+        ]
+    }
+]
