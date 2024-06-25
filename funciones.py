@@ -1,0 +1,1 @@
+def ingresar_paciente():
