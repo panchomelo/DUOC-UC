@@ -39,7 +39,12 @@ def ingresar_paciente(matriz):
         fono = input("Ingrese el fono del paciente: ")
         diagnostico = input("Ingrese el diagnóstico del paciente: ")
         medicamento = input("Ingrese el medicamento recetado: ")
-
+        
+        if nombre_completo == "" or rut == "" or sexo == "" or edad == "" or fono == "" or diagnostico == "" or medicamento == "":
+            print("Error: Todos los campos deben ser ingresados. No se permiten campos vacíos.")
+            print("Por favor, vuelva a intentarlo.")
+            continue  # Vuelve al inicio del bucle para pedir los datos nuevamente
+        
         # Ingresar los datos del paciente en la fila vacía encontrada
         matriz[fila_vacia] = [nombre_completo, rut, sexo, edad, fono, diagnostico, medicamento]
         print()
