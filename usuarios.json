@@ -1,0 +1,92 @@
+[
+    {
+        "nombre_completo": "gengar",
+        "rut": "777",
+        "sexo": "masculino",
+        "edad": "324234",
+        "fono": "234324",
+        "diagnostico": "tenebrositis",
+        "medicamento": "hada healthcare"
+    },
+    {
+        "nombre_completo": "absol",
+        "rut": "592",
+        "sexo": "masculino",
+        "edad": "324",
+        "fono": "34234",
+        "diagnostico": "choreza extrema",
+        "medicamento": "calmadil"
+    },
+    {
+        "nombre_completo": "blastoise",
+        "rut": "434",
+        "sexo": "femenino",
+        "edad": "242",
+        "fono": "1441431",
+        "diagnostico": "perro bomba",
+        "medicamento": "melatonina"
+    },
+    {
+        "nombre_completo": "gardevoir",
+        "rut": "505",
+        "sexo": "femenino",
+        "edad": "32",
+        "fono": "324234",
+        "diagnostico": "dulzura extrema",
+        "medicamento": "paracetamol"
+    },
+    {
+        "nombre_completo": "gyarados",
+        "rut": "393",
+        "sexo": "masculino",
+        "edad": "234",
+        "fono": "32423423",
+        "diagnostico": "colmillo fuego",
+        "medicamento": "pepsoden pro"
+    },
+    {
+        "nombre_completo": "blaziken",
+        "rut": "525",
+        "sexo": "masculino",
+        "edad": "324",
+        "fono": "24324",
+        "diagnostico": "patada bomba",
+        "medicamento": "menta oil"
+    },
+    {
+        "nombre_completo": "dragonite",
+        "rut": "303",
+        "sexo": "masculino",
+        "edad": "32",
+        "fono": "234",
+        "diagnostico": "ala rota",
+        "medicamento": "povidona"
+    },
+    {
+        "nombre_completo": "espeon",
+        "rut": "040",
+        "sexo": "femenino",
+        "edad": "2342",
+        "fono": "32432423",
+        "diagnostico": "bipolaridad",
+        "medicamento": "litio"
+    },
+    {
+        "nombre_completo": "goodra",
+        "rut": "939",
+        "sexo": "femenino",
+        "edad": "234",
+        "fono": "234234",
+        "diagnostico": "cuerpo venenoso",
+        "medicamento": "jabon carbon"
+    },
+    {
+        "nombre_completo": "glaceon",
+        "rut": "383",
+        "sexo": "femenino",
+        "edad": "324",
+        "fono": "234324",
+        "diagnostico": "piel hielo",
+        "medicamento": "gaviscon"
+    }
+]
